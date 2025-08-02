@@ -12,3 +12,7 @@
   13 rm testing.py
   14 git status
   15 git restore testing.py
+  16 git remote ser-url origin https://token@github.com/Nehal-Syed/Git-for-devops.git
+  17 git remote set-url origin https://token@github.com/Nehal-Syed/Git-for-devops.git
+  18 git remote -v
+  19 git push origin master
