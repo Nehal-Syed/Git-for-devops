@@ -10,7 +10,8 @@ This repository documents my learning progress as I explore **Git**, **GitHub**,
 ### ✅ Git Commands
 I've practiced using several key Git commands:
 
-- `git add` – Stage changes for commit  
+- `git add` – Stage changes for commit
+- `PAT Tokens` - Worked with personal access tokens for remote access
 - `git commit` – Save snapshots of the project history  
 - `git push` – Upload local changes to GitHub  
 - `git status` – Check the status of working directory and staging area  
