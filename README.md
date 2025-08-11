@@ -22,6 +22,7 @@ I've practiced using several key Git commands:
 ### 🌿 Branching & Merging
 - Created and managed multiple branches
 - Merged feature branches into the `main` (or `master`) branch using pull requests on GitHub
+- Merged files from dev branch to master
 
 ---
 
